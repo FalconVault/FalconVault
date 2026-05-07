@@ -2,7 +2,7 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
 <div align="center">
-  <img src="https://cdn.keyauth.cc/v2/assets/media/logos/logo-1-dark.png" alt="KeyAuth Logo" width="180" height="100">
+  <img src="https://i.postimg.cc/Th8JkVJn/Falcon-Vault.png" alt="Vault Logo" width="180" height="100">
 </div>
 
 <p align="center">
